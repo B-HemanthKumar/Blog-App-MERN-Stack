@@ -1,5 +1,7 @@
-# Blog-App-MERN-Stack
-It is an MERN Stack  Blog app. Where user can use CRUD operations and password created by user is hashed  
+### Blog-App-MERN-Stack
+It is an MERN Stack Blog app. Where user can use CRUD operations and password created by user is hashed  
+
+NOTE: DISABLE CORS IN BROWSER FOR SMOOTH FUNCTIONING OF THE APPLICATION / CLONE THE REPOSITORY AND USE PORT NO : 3000 FOR FRONTEND SIDE(CLIENT), PORT NO : 5000 FOR BACKEND SIDE(SERVER)
 
 How to run this project:
 
